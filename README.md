@@ -37,9 +37,7 @@ Make sure Python 3 is installed on your system
 
 Clone this repository or download the files
 
-"" Run the program: ""
-
-python password_checker.py
+Run the program: python password_checker.py
 
 Enter a password when prompted
 
