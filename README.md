@@ -1,6 +1,7 @@
 
 
 PassGuard
+
 PassGuard is a Python-based password strength analyzer designed to evaluate the security of user passwords and provide actionable feedback to improve them. This project demonstrates fundamental cybersecurity concepts such as secure password practices, pattern detection, and input validation.
 
  Features
@@ -15,6 +16,7 @@ Built-in re (regular expressions) module
 
 
 How It Works
+
 The program evaluates a password based on several security criteria:
 Minimum length of 12 characters
 Use of uppercase letters (A–Z)
@@ -30,5 +32,5 @@ python password_checker.py
 
 Enter a password when prompted
 
-Created as part of a computer science portfolio project.
+
 
