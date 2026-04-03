@@ -1,6 +1,6 @@
 import re
 
-#Banner
+# Banner
 
 def banner():
     print("---------------------------------------------")
@@ -11,7 +11,7 @@ def banner():
 
 banner()
 
-#core
+# Core
 
 def check_password_strength(password):
     score = 0
