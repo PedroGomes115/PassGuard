@@ -4,14 +4,18 @@ import re
 
 # Banner
 
-def banner():
-    print("---------------------------------------------")
-    print("                  PassGuard                  ")
-    print("             Made by: Pedro Gomes            ")
-    print("---------------------------------------------")
+def banner_passguard():
+    title = "Passguard"
+    author = "Made by: Pedro Gomes"
+    width = max(len(title), len(author)) + 10  
+
+    print("-" * width)
+    print(title.center(width))
+    print(author.center(width))
+    print("-" * width)
     print("")
 
-banner()
+banner_passguard()
 
 # Core
 
